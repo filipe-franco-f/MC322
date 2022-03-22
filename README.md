@@ -1,2 +1,6 @@
-# MC322
-Repositório da disciplina MC322 Unicamp
+# Aluno
+* `Filipe Franco Ferreira`
+* `RA: 251027`
+* 
+# Curso
+* `Engenharia da Computação`
