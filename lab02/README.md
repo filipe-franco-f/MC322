@@ -10,4 +10,4 @@ Estrutura de pastas:
 
 ## Notebook sobre Java Estruturas
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
+[Notebook](https://github.com/filipe-franco-f/MC322/blob/main/lab02/notebook/lab02-java-estruturas.ipynb)
