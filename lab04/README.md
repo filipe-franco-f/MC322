@@ -1,5 +1,4 @@
-# Lab03 - Lombriga no Aquário
-
+# Lab04 - Jogo Resta 1
 Estrutura de pastas:
 
 ~~~
@@ -11,9 +10,9 @@ Estrutura de pastas:
 |       │
 |       └── c02oo
 |           │
-|           └── s02classe
+|           └── s03relacionamento
 |               │
-|               └── s03lombriga <- arquivos fonte .java (feitos no eclipse ou equivalente)
+|               └── s04restaum <- arquivos fonte .java (feitos no eclipse ou equivalente)
 │
 └── bin <- pasta de arquivos binários Java (.class)
     │
@@ -21,11 +20,11 @@ Estrutura de pastas:
         │
         └── c02oo
             │
-            └── s02classe
+            └── s03relacionamento
                 │
-                └── s03lombriga <- arquivos binários .class
+                └── s04restaum <- arquivos binários .class
 ~~~
 
-## Arquivos Java sobre Lombriga no Aquário
+## Arquivos Java sobre Jogo Resta 1
 
-[Pasta de arquivos java](https://github.com/filipe-franco-f/MC322/tree/main/lab03/src/pt/c02oo/s02classe/s03lombriga)
+[Pasta de arquivos java](https://github.com/filipe-franco-f/MC322/tree/main/lab04/src/pt/c02oo/s03relacionamento/s04restaum)
